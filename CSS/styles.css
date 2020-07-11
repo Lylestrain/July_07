@@ -73,8 +73,10 @@ header a{
 
   button.button_1 {
       margin-top: .75rem;
+      background-color: #e8491d;
+      color: #f4f4f4;
   }
-  
+
   footer {
     text-align: center;
     background-color: #e8491d;
