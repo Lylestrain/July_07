@@ -70,6 +70,11 @@ header a{
   input.input_1, button.button_1 {
       font-size: 1rem;
   }
+
+  button.button_1 {
+      margin-top: .75rem;
+  }
+  
   footer {
     text-align: center;
     background-color: #e8491d;
