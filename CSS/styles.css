@@ -67,6 +67,9 @@ header a{
     padding: 2rem 1rem;
   } 
 
+  input.input_1, button.button_1 {
+      font-size: 1rem;
+  }
   footer {
     text-align: center;
     background-color: #e8491d;
